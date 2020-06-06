@@ -1,6 +1,6 @@
 # Read 03 - Files in Python
 
-#### 2020-06-06
+#### 2020-05-13
 
 ## RESOURCES:
 #### Read & Write Files in Python
@@ -11,7 +11,6 @@ https://realpython.com/python-exceptions/ <br>
 https://realpython.com/courses/reading-and-writing-files-python/ <br>
 #### Reading and Writing Files in Python Quiz <br>
 https://realpython.com/quizzes/read-write-files-python/ <br>
-<br>
 
 #### Read & Write Files in Python
 Files on most modern file systems are composed of three main parts: <br>
@@ -31,9 +30,3 @@ Opened files may be read using ".read(size=-1)", ".readline(size=-1)", or "readl
 #### Exceptions in Python
 A Python program terminates as soon as it encounters an error. In Python, an error can be a syntax error or an exception. Syntax errors occur when the parser detects an incorrect statement. An exception error occurs whenever syntactically correct Python code results in an error. <br>
 The try and except block in Python is used to catch and handle exceptions. <br>
-
-#### Video: Read & Write Files in Python
-This video "series" is more of a teaser to get one to become a member of the Real Python community; all videos beyond the first two are only open to "members."
-
-#### Reading and Writing Files in Python Quiz
-The quiz is a quick-and-simple 8 question review quiz of a few key points covered in the tutorial.
