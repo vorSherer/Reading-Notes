@@ -5,7 +5,6 @@
 ## RESOURCES:
 #### Classes and Objects <br>
 https://www.learnpython.org/en/Classes_and_Objects <br>
-
 #### Thinking Recursively (Optional: 'Naive Recursion is Naive' section and beyond) <br>
 https://realpython.com/python-thinking-recursively/ <br>
 #### Pytest Fixtures and Coverage <br>
