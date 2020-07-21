@@ -18,6 +18,7 @@ https://www.crummy.com/software/BeautifulSoup/ <br>
 
 ### Web Scrape with Python in 4 minutes <br>
 Julia Kho's quick-read tutorial in how to build a simple web scraper. A great programmed text exercise with enough explanation of what each line means/does to get one started. <br>
+Julia's jupyter notebook with the code is at https://github.com/julia-git/webscraping_ny_mta/blob/master/Webscraping.ipynb <br>
 
 ### What is Web Scraping? <br>
 A great wikipedia article explaining the topic and chock-full of outlinks, as well as replete with source reference links at the bottom of the page.<br>
