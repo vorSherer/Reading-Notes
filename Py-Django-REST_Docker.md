@@ -20,6 +20,14 @@ https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginn
 A long-ish read by Wm. Vincent on Docker. <br>
 Docker is really just Linux containers which are a type of virtualization, as are virtual environments (venv), which can only isolate Python software packages locally. <br>
 Conversely, with Docker one can run a production database or other services within self-contained, platform -independent Docker containers. <br>
+__Images__ and __containers__ are the two fundamental concepts to grasp when you start with Docker. __An image__ is a snapshot in time of what a project contains. __A container__ is a running instance of the image. <br>
+
+*"A baking analogy we can use here is as follows:
+	- A __Dockerfile__ is the recipe for a cake
+	- An __image__ is a snapshot of the recipe at a given time 
+	- A __docker-compose.yml__ says how to make the cake
+	- And the __container__ is the actual, baked cake"* <br>
+Docker caches the steps in a Dockerfile to speed up subsequent builds. __*When a change is made to a step, all steps following it will be executed from scratch*__. For this reason, order matters in a Dockerfile. Typically you want to put code that won’t change often at the top and code that will change at the end. <br>
 
 ---
 
