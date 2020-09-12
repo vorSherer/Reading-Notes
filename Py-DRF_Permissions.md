@@ -10,8 +10,13 @@ https://www.django-rest-framework.org/api-guide/permissions/ <br>
 - __*Throttling*__ - https://www.django-rest-framework.org/api-guide/throttling/ <br>
 - __*Filtering*__ - https://www.django-rest-framework.org/api-guide/filtering/ <br>
 
+
 ### Classy Django REST <br>
 http://www.cdrf.co/ <br>
+#### Related Link:
+- Classy Class-Based Views <br>
+http://www.ccbv.co/ <br>
+
 
 ### DRF Generic Views <br>
 https://www.django-rest-framework.org/api-guide/generic-views/ <br>
