@@ -37,7 +37,7 @@ Advice from this writer: <br>
 1. __Develop your solution in Pseudocode__. This frees one from the actual syntax requirements as one confirms the Algorithm in a code-like language. The key point here is to verify the logic. <br>
 1. __Don't sweat the small stuff__. If you make a mistake or forget something, brush it off! If you can't recall something, __*state that you would look it up*__. <br>
 1. __Sit down. Be Humble.__ This is as much about __*HOW*__ you work as about *WHETHER YOU SOLVE* the problem. If offered constructive criticism, accept it gracefully. You're demonstrating team fit in doing so. <br>
-1. __Come prepared.__ Put in the time necessary to maximize your chances to pass. There is no substitute for putting in solid time and effort beforehand. __RECOMMENDED EFFORT: *Cracking the Coding Interview*__ - Gail Laakman McDowell. <br>
+1. __Come prepared.__ Put in the time necessary to maximize your chances to pass. There is no substitute for putting in solid time and effort beforehand. __RECOMMENDED EFFORT: *Cracking the Coding Interview*__ - Gayle Laakmann McDowell. <br>
 1. __Review your finished work.__ Is it __complete and correct?__  Is it __algorithmically efficient__ (i.e., the optimal way to solve the problem)? Walk through a test input or two to check. Test an edge case or two. <br>
 
 ---
