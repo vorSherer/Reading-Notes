@@ -41,23 +41,12 @@ https://www.digitalocean.com/community/tutorials/understanding-variables-scope-h
 A long-ish review of JS ES6 Syntax. <br>
 
 ### React - Hello World
-NN <br>
-
 ### React - JSX
-NN <br>
-
 ### React - Rendering Elements
-NN <br>
-
 ### React - Components & Props
-NN <br>
-
 ### React - State & Lifecycle
-hNN <br>
-
 ### React - Handling Events
-NN <br>
-
+The first six of twelve lessons introducing React. <br>
 
 ### React - Installation
 NN <br>
@@ -67,3 +56,8 @@ NN <br>
 
 ### Understanding Variables, Scope, and Hoisting in JavaScript
 NN <br>
+
+---
+Submission PR: https://github.com/vorSherer/cf-reading-notes/pull/49
+
+Today's reading reprised JavaScript fundamentals and introduced React.  My reading notes are here.
