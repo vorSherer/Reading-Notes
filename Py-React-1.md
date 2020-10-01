@@ -65,6 +65,3 @@ As the title implies, this moderate-length read re-caps how scope and hoisting a
 A very long, mind-bending review of JavaScript ES6, including features not seen before. <br>
 
 ---
-Submission PR: https://github.com/vorSherer/cf-reading-notes/pull/50
-
-Today's reading reprised JavaScript fundamentals and introduced React.  My reading notes are here.
