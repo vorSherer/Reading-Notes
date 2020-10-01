@@ -6,6 +6,10 @@
 ### ES6 Syntax and Feature Overview
 https://www.taniarascia.com/es6-syntax-and-feature-overview/ <br>
 
+#### ADDITIONAL RESOURCE
+### A re-introduction to JavaScript (JS tutorial)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript <br>
+
 ### React - Hello World
 https://reactjs.org/docs/hello-world.html <br>
 
@@ -49,15 +53,18 @@ A long-ish review of JS ES6 Syntax. <br>
 The first six of twelve lessons introducing React. <br>
 
 ### React - Installation
-NN <br>
+A short read describing different toolchains available and what use case each might be better suited for in implementing React. <br>
 
 ### (Optional): React - Comprehensive Guide
-NN <br>
+An intro tutorial thoroughly describing (with a running example) how to build out a React component, illustrating the core aspects of React. <br>
 
 ### Understanding Variables, Scope, and Hoisting in JavaScript
-NN <br>
+As the title implies, this moderate-length read re-caps how scope and hoisting apply to the three variable types in ES6. <br>
+
+### A re-introduction to JavaScript (JS tutorial)
+A very long, mind-bending review of JavaScript ES6, including features not seen before. <br>
 
 ---
-Submission PR: https://github.com/vorSherer/cf-reading-notes/pull/49
+Submission PR: https://github.com/vorSherer/cf-reading-notes/pull/50
 
 Today's reading reprised JavaScript fundamentals and introduced React.  My reading notes are here.
