@@ -43,4 +43,4 @@ Reviewing the same optional resource listed in the React 1 reading list. <br>
 
 ---
 
-Fnord.
+https://github.com/vorSherer/cf-reading-notes/pull/53
