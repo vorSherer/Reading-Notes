@@ -37,3 +37,5 @@ This is the feature description page for Sass. <br>
 
 ## Sass Cheatsheet
 A helpful 'reminder sheet' of Sass command syntax. <br>
+
+---

@@ -42,5 +42,3 @@ The remaining six of twelve lessons introducing React; part of the official Reac
 Reviewing the same optional resource listed in the React 1 reading list. <br>
 
 ---
-
-https://github.com/vorSherer/cf-reading-notes/pull/53
