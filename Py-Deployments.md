@@ -39,9 +39,3 @@ A long-ish article from the __heroku docs__ describing how to build Docker Image
 The 'Keep Reading' link at the bottom of the article continues to a page with outlinks to deployment details, some of which include their own 'Keep Reading' links. <br>
 
 ---
-
-Submission - 
-PR:
-URL
-Today's readings dealt with Deployment considerations.  My reading notes may be found here.
-https://github.com/vorSherer/cf-reading-notes/blob/master/Py-(filename).md
